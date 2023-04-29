@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://github.com/Akshay-Pandhare/BooK-Store-Management/blob/main/black-and-white-open-book-logo-illustration-on-white-background-free-vector.jpg" alt="Project logo"></a>
+ <img width=200px height=200px src="https://github.com/ajsat007/Employee-Management-System/blob/main/images%20(1).jpg" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Employee management System</h3>
@@ -34,7 +34,7 @@ The EMS has been developed to override the problems prevailing in the practicing
 
 ## 🧐 About `<a name = "about"></a>`
 
-This project Book Shop Management System, is a Java JSP and MySQL Project which runs on the tomcat server, you can also run this project in Eclipse and Netbeans. We have developed this Java JSP and MySQL Project on Book Shop Management System for automating the process of Book Shop Management System. The main features of this project is to manage Inventory, Receipts, Books, Stocks, Sales and Publications
+Employee management systems are useful for running a smooth organization, especially organizations of scale. They assist HR personnel in keeping track of employee information such as salary details, medical information, attendance/leave records, overall performance and more. They are an essential.
 
 ## 🏁 Getting Started `<a name = "getting_started"></a>`
 
